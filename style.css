@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container-fluid{
+    height: 100vh;
+}
+
+.didesnis{
+    height: 33.4%;
+}
+
+.mazesnis{
+    height: 33.3%;
+}
+
+
+.penkiasdesimt{
+    height: 50%;
+}
+
+.dvidesimtpenki{
+    height: 25%;
+}
+
+.metine{
+    background-color: aquamarine;
+}
+
+.tamsiaizalia{
+    background-color: rgb(36, 114, 104);
+}
+.tmetine{
+    color: aquamarine;
+}
+
+.ttamsiaizalia{
+    color: rgb(36, 114, 104);
+}
+
+h2{
+    letter-spacing: 13px;
+}
+
+img{
+    object-fit: cover;
+}
